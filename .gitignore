@@ -1,0 +1,14 @@
+
+# Dependency directory
+node_modules
+bower_components
+
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+
+# ignore yarn.lock and package-lock.json
+yarn.lock
+package-lock.json
